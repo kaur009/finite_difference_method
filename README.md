@@ -37,7 +37,7 @@ The repository includes the following files:
 
 1. Ensure MATLAB is installed and configured correctly to run the scripts.
 2. Adjust grid resolution and simulation parameters in the scripts to fit different problem sizes and requirements.
-3. For theoretical background and detailed explanations, refer to the [Documentation](https://docs.google.com/presentation/d/1ynMJxYFonx6eQYAnlvbByBCSkSBgZWrh/edit?usp=sharing&ouid=112652190702611863831&rtpof=true&sd=true).
+
 
 
 
