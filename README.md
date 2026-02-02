@@ -39,9 +39,7 @@ The repository includes the following files:
 2. Adjust grid resolution and simulation parameters in the scripts to fit different problem sizes and requirements.
 3. For theoretical background and detailed explanations, refer to the [Documentation](https://docs.google.com/presentation/d/1ynMJxYFonx6eQYAnlvbByBCSkSBgZWrh/edit?usp=sharing&ouid=112652190702611863831&rtpof=true&sd=true).
 
-## 🚀 About Me
-My name is __Sangeet,__ and I am currently pursuing __BTech in Computer Science and Engineering at IIT Jammu__.  This project uses finite difference methods to solve Laplace's equation and Maxwell's equations, and it attempts to improve my grasp of numerical methods.
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeet-sangwan-090196258/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhkirat-kaur-90770a272/)
 
